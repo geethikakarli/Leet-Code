@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/geethikakarli/Leet-Code/tree/master/0018-4sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
