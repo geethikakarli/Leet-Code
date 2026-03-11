@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/geethikakarli/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/geethikakarli/Leet-Code/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1009-complement-of-base-10-integer](https://github.com/geethikakarli/Leet-Code/tree/master/1009-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
