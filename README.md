@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/geethikakarli/Leet-Code/tree/master/0018-4sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/geethikakarli/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## String
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/geethikakarli/Leet-Code/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/geethikakarli/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/geethikakarli/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/geethikakarli/Leet-Code/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Backtracking
 |  |
