@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/geethikakarli/Leet-Code/tree/master/0018-4sum) |
+| [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/geethikakarli/Leet-Code/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/geethikakarli/Leet-Code/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/geethikakarli/Leet-Code/tree/master/2751-robot-collisions) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/geethikakarli/Leet-Code/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/geethikakarli/Leet-Code/tree/master/3548-equal-sum-grid-partition-ii) |
