@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/geethikakarli/Leet-Code/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/geethikakarli/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/geethikakarli/Leet-Code/tree/master/0027-remove-element) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/geethikakarli/Leet-Code/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/geethikakarli/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/geethikakarli/Leet-Code/tree/master/0027-remove-element) |
 | [3643-flip-square-submatrix-vertically](https://github.com/geethikakarli/Leet-Code/tree/master/3643-flip-square-submatrix-vertically) |
 ## Sorting
