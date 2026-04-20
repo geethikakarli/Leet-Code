@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/geethikakarli/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/geethikakarli/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/geethikakarli/Leet-Code/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/geethikakarli/Leet-Code/tree/master/2751-robot-collisions) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/geethikakarli/Leet-Code/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/geethikakarli/Leet-Code/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/geethikakarli/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
