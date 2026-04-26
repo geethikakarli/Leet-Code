@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/geethikakarli/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/geethikakarli/Leet-Code/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
@@ -226,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/geethikakarli/Leet-Code/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
