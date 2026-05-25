@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/geethikakarli/Leet-Code/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/geethikakarli/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/geethikakarli/Leet-Code/tree/master/2075-decode-the-slanted-ciphertext) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
+| [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/geethikakarli/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/geethikakarli/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/geethikakarli/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 ## Hash Table
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/geethikakarli/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
 | [2615-sum-of-distances](https://github.com/geethikakarli/Leet-Code/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/2906-construct-product-matrix) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/geethikakarli/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
