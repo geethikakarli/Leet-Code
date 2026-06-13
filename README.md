@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/geethikakarli/Leet-Code/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/geethikakarli/Leet-Code/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/geethikakarli/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3093-longest-common-suffix-queries](https://github.com/geethikakarli/Leet-Code/tree/master/3093-longest-common-suffix-queries) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/geethikakarli/Leet-Code/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/geethikakarli/Leet-Code/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/geethikakarli/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Recursion
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/geethikakarli/Leet-Code/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/geethikakarli/Leet-Code/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/geethikakarli/Leet-Code/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/geethikakarli/Leet-Code/tree/master/3838-weighted-word-mapping) |
 ## Matrix
 |  |
 | ------- |
