@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/geethikakarli/Leet-Code/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/geethikakarli/Leet-Code/tree/master/0061-rotate-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/geethikakarli/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/geethikakarli/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/geethikakarli/Leet-Code/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/geethikakarli/Leet-Code/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/geethikakarli/Leet-Code/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/geethikakarli/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/geethikakarli/Leet-Code/tree/master/2751-robot-collisions) |
 ## Divide and Conquer
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/geethikakarli/Leet-Code/tree/master/0061-rotate-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/geethikakarli/Leet-Code/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Number Theory
 |  |
 | ------- |
