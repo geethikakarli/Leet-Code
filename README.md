@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geethikakarli/Leet-Code/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/geethikakarli/Leet-Code/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/geethikakarli/Leet-Code/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/geethikakarli/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/geethikakarli/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
