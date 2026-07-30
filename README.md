@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/geethikakarli/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
 | [0657-robot-return-to-origin](https://github.com/geethikakarli/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/geethikakarli/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
