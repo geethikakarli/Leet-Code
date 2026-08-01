@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/geethikakarli/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1288-remove-covered-intervals](https://github.com/geethikakarli/Leet-Code/tree/master/1288-remove-covered-intervals) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Simulation
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
+| [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/geethikakarli/Leet-Code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/geethikakarli/Leet-Code/tree/master/1622-fancy-sequence) |
@@ -546,4 +550,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/geethikakarli/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/geethikakarli/Leet-Code/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
