@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/geethikakarli/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/geethikakarli/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/geethikakarli/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/geethikakarli/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/geethikakarli/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/geethikakarli/Leet-Code/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1622-fancy-sequence](https://github.com/geethikakarli/Leet-Code/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/geethikakarli/Leet-Code/tree/master/1840-maximum-building-height) |
@@ -565,4 +569,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
