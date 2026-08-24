@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/geethikakarli/Leet-Code/tree/master/1840-maximum-building-height) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/geethikakarli/Leet-Code/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/geethikakarli/Leet-Code/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1914-cyclically-rotating-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1914-cyclically-rotating-a-grid) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/geethikakarli/Leet-Code/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geethikakarli/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1563-stone-game-v](https://github.com/geethikakarli/Leet-Code/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/geethikakarli/Leet-Code/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2573-find-the-string-with-lcp](https://github.com/geethikakarli/Leet-Code/tree/master/2573-find-the-string-with-lcp) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/geethikakarli/Leet-Code/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/geethikakarli/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/geethikakarli/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [1871-jump-game-vii](https://github.com/geethikakarli/Leet-Code/tree/master/1871-jump-game-vii) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2574-left-and-right-sum-differences](https://github.com/geethikakarli/Leet-Code/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/geethikakarli/Leet-Code/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/2906-construct-product-matrix) |
@@ -422,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/geethikakarli/Leet-Code/tree/master/1563-stone-game-v) |
 | [1622-fancy-sequence](https://github.com/geethikakarli/Leet-Code/tree/master/1622-fancy-sequence) |
 | [1840-maximum-building-height](https://github.com/geethikakarli/Leet-Code/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/geethikakarli/Leet-Code/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/geethikakarli/Leet-Code/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/geethikakarli/Leet-Code/tree/master/2029-stone-game-ix) |
@@ -609,17 +613,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/geethikakarli/Leet-Code/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/geethikakarli/Leet-Code/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/geethikakarli/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/geethikakarli/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/geethikakarli/Leet-Code/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/geethikakarli/Leet-Code/tree/master/2029-stone-game-ix) |
 ## Ordered Set
 |  |
