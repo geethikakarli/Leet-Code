@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/geethikakarli/Leet-Code/tree/master/0008-string-to-integer-atoi) |
+| [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/geethikakarli/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0541-reverse-string-ii) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
