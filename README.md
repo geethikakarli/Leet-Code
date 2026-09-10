@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/geethikakarli/Leet-Code/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/geethikakarli/Leet-Code/tree/master/1563-stone-game-v) |
+| [1572-matrix-diagonal-sum](https://github.com/geethikakarli/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/geethikakarli/Leet-Code/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/geethikakarli/Leet-Code/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/geethikakarli/Leet-Code/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/geethikakarli/Leet-Code/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1914-cyclically-rotating-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1914-cyclically-rotating-a-grid) |
