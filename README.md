@@ -328,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0052-n-queens-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0052-n-queens-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/geethikakarli/Leet-Code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
 ## Prefix Sum
@@ -668,4 +669,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/geethikakarli/Leet-Code/tree/master/2029-stone-game-ix) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
