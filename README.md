@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
