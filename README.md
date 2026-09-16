@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0766-toeplitz-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0289-game-of-life](https://github.com/geethikakarli/Leet-Code/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
+| [0766-toeplitz-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
