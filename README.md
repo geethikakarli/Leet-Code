@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/geethikakarli/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/geethikakarli/Leet-Code/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
