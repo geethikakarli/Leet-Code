@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/geethikakarli/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/geethikakarli/Leet-Code/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/geethikakarli/Leet-Code/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0657-robot-return-to-origin](https://github.com/geethikakarli/Leet-Code/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geethikakarli/Leet-Code/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
+| [0289-game-of-life](https://github.com/geethikakarli/Leet-Code/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
