@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/geethikakarli/Leet-Code/tree/master/0289-game-of-life) |
+| [0416-partition-equal-subset-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/geethikakarli/Leet-Code/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0416-partition-equal-subset-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
@@ -705,4 +707,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0052-n-queens-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
