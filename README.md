@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/geethikakarli/Leet-Code/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/geethikakarli/Leet-Code/tree/master/0084-largest-rectangle-in-histogram) |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/geethikakarli/Leet-Code/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/geethikakarli/Leet-Code/tree/master/0289-game-of-life) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/geethikakarli/Leet-Code/tree/master/0008-string-to-integer-atoi) |
 | [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/geethikakarli/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0541-reverse-string-ii) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/geethikakarli/Leet-Code/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [0416-partition-equal-subset-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/geethikakarli/Leet-Code/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/geethikakarli/Leet-Code/tree/master/0788-rotated-digits) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1189-maximum-number-of-balloons](https://github.com/geethikakarli/Leet-Code/tree/master/1189-maximum-number-of-balloons) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/geethikakarli/Leet-Code/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/geethikakarli/Leet-Code/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3093-longest-common-suffix-queries](https://github.com/geethikakarli/Leet-Code/tree/master/3093-longest-common-suffix-queries) |
@@ -720,4 +725,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/geethikakarli/Leet-Code/tree/master/0416-partition-equal-subset-sum) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
