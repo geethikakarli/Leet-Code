@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/geethikakarli/Leet-Code/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
+| [0290-word-pattern](https://github.com/geethikakarli/Leet-Code/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/geethikakarli/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/geethikakarli/Leet-Code/tree/master/0657-robot-return-to-origin) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/geethikakarli/Leet-Code/tree/master/0036-valid-sudoku) |
 | [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
+| [0290-word-pattern](https://github.com/geethikakarli/Leet-Code/tree/master/0290-word-pattern) |
 | [0496-next-greater-element-i](https://github.com/geethikakarli/Leet-Code/tree/master/0496-next-greater-element-i) |
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [1096-brace-expansion-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1096-brace-expansion-ii) |
