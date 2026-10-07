@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/geethikakarli/Leet-Code/tree/master/0139-word-break) |
 | [0224-basic-calculator](https://github.com/geethikakarli/Leet-Code/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/geethikakarli/Leet-Code/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/geethikakarli/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/geethikakarli/Leet-Code/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0541-reverse-string-ii) |
 | [0657-robot-return-to-origin](https://github.com/geethikakarli/Leet-Code/tree/master/0657-robot-return-to-origin) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0052-n-queens-ii](https://github.com/geethikakarli/Leet-Code/tree/master/0052-n-queens-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/geethikakarli/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/geethikakarli/Leet-Code/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/geethikakarli/Leet-Code/tree/master/1980-find-unique-binary-string) |
@@ -643,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/geethikakarli/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1096-brace-expansion-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
