@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/geethikakarli/Leet-Code/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/geethikakarli/Leet-Code/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/geethikakarli/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1288-remove-covered-intervals](https://github.com/geethikakarli/Leet-Code/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/geethikakarli/Leet-Code/tree/master/1331-rank-transform-of-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/geethikakarli/Leet-Code/tree/master/0498-diagonal-traverse) |
 | [0766-toeplitz-matrix](https://github.com/geethikakarli/Leet-Code/tree/master/0766-toeplitz-matrix) |
 | [0835-image-overlap](https://github.com/geethikakarli/Leet-Code/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/geethikakarli/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/geethikakarli/Leet-Code/tree/master/1301-number-of-paths-with-max-score) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/geethikakarli/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/geethikakarli/Leet-Code/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/geethikakarli/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/geethikakarli/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -683,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/geethikakarli/Leet-Code/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/geethikakarli/Leet-Code/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/geethikakarli/Leet-Code/tree/master/1254-number-of-closed-islands) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/geethikakarli/Leet-Code/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/geethikakarli/Leet-Code/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
